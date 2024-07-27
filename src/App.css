@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+div{
+  border-radius: 10px;
+}
+
+.background{
+  background-color:#f5f3f2 ;
+  color: lightslategray;
+  padding: 2% 5px;
+}
+
+h1{
+  font-weight: bold;
+  color: gray;
+}
+
+.button{
+  text-align: left;
+}
+
+label{
+  text-align: left;
+}
+.back-ground{
+  background-color:#d6d1d0 ;
+  margin: 0% 3% 0%;
+  padding: 1%;
+}
+
+.tasks-container{
+  background-color: white;
+  padding-left: 2%; 
+}
+
+.details-container{
+  padding-left: 2%; 
+  min-width: 90%;
+  text-align: left;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+.delete-icon{
+  margin-right: 12px;
+  border: 2px;
+}
